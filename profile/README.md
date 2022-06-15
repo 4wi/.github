@@ -1,4 +1,4 @@
-## n1 4eJI
+## n1 4eJI (aka `4wi`)
 
 leading the gamehacking scene since 2077 \
 we provide the best solutions on the whole market for free. we are not talking shit and not copypasting articles with syscall initialization and auth analysis, we prefer doing real work instead.
