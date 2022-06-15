@@ -23,3 +23,5 @@ nous fournissons gratuitement les meilleures solutions sur l'ensemble du marché
 - [@es3n1n](https://github.com/es3n1n/)
 - [@cpz](https://github.com/cpz/)
 - [@blick1337](https://github.com/blick1337)
+- [@sadsadsadsadsadsadsadsadsalt](https://github.com/sadsadsadsadsadsadsadsadsalt)
+- [@user344](https://github.com/User344)
